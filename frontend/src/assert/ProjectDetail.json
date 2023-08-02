@@ -1,0 +1,37 @@
+[
+ {
+ "name":"1MD TV Search",
+"detail":"I have created a user-friendly and responsive website called MD TV Search. The website allows users to search for TV show information easily. To build the frontend, I used React, and for efficient state management, I implemented the Context API. By integrating the 'https://www.tvmaze.com/api', users can access a vast database of TV show details. The website is deployed on Netlify, ensuring accessibility to a global audience.",
+"github":"https://github.com/mayurdesai32/Mdtv-search",
+"website":"https://mdtv.netlify.app/",
+"image":""
+},
+ {
+ "name":"1MD TV Search",
+"detail":"I have created a user-friendly and responsive website called MD TV Search. The website allows users to search for TV show information easily. To build the frontend, I used React, and for efficient state management, I implemented the Context API. By integrating the 'https://www.tvmaze.com/api', users can access a vast database of TV show details. The website is deployed on Netlify, ensuring accessibility to a global audience.",
+"github":"https://github.com/mayurdesai32/Mdtv-search",
+"website":"https://mdtv.netlify.app/",
+"image":""
+}, {
+ "name":"1MD TV Search",
+"detail":"I have created a user-friendly and responsive website called MD TV Search. The website allows users to search for TV show information easily. To build the frontend, I used React, and for efficient state management, I implemented the Context API. By integrating the 'https://www.tvmaze.com/api', users can access a vast database of TV show details. The website is deployed on Netlify, ensuring accessibility to a global audience.",
+"github":"https://github.com/mayurdesai32/Mdtv-search",
+"website":"https://mdtv.netlify.app/",
+"image":""
+}, {
+ "name":"1MD TV Search",
+"detail":"I have created a user-friendly and responsive website called MD TV Search. The website allows users to search for TV show information easily. To build the frontend, I used React, and for efficient state management, I implemented the Context API. By integrating the 'https://www.tvmaze.com/api', users can access a vast database of TV show details. The website is deployed on Netlify, ensuring accessibility to a global audience.",
+"github":"https://github.com/mayurdesai32/Mdtv-search",
+"website":"https://mdtv.netlify.app/",
+"image":""
+}, {
+ "name":"1MD TV Search",
+"detail":"I have created a user-friendly and responsive website called MD TV Search. The website allows users to search for TV show information easily. To build the frontend, I used React, and for efficient state management, I implemented the Context API. By integrating the 'https://www.tvmaze.com/api', users can access a vast database of TV show details. The website is deployed on Netlify, ensuring accessibility to a global audience.",
+"github":"https://github.com/mayurdesai32/Mdtv-search",
+"website":"https://mdtv.netlify.app/",
+"image":""
+}
+
+
+
+]
