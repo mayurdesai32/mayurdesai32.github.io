@@ -40,8 +40,8 @@ const ContactSection = () => {
             <div className='contact_subdetail'>
               <div className='subcontact_title'>Quick Link</div>
               <div className='subcontact_answer'>
-                <a href='#app'>Home</a> <a href='#about'>About</a>{' '}
-                <a href='#skill'>Skills</a>{' '}
+                <a href='#app'>Home</a> <a href='#about'>About</a>
+                <a href='#skill'>Skills</a>
                 <a href='#ProjectSection'>Project</a>
               </div>
             </div>
