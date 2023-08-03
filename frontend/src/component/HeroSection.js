@@ -17,7 +17,8 @@ const HeroSection = () => {
           </h2>
 
           <div className='hero_btn'>
-            <a>Contact Me </a> <a>Download CV</a>
+            <a className='btn'>Contact Me </a>
+            <a className='btn'>Download CV</a>
           </div>
         </div>
 

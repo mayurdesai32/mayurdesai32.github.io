@@ -5,7 +5,7 @@ const skillSection = () => {
   return (
     <div id='skill'>
       <Title content={'My Skills'} />
-      <div id='skillSection'>
+      <div id='skillSection' className='container'>
         <SkillList
           list={[
             'HTML',
@@ -25,8 +25,7 @@ const skillSection = () => {
           title={'FrontEnd'}
         />
         <SkillList
-          list={['NODE', 'PYTHON', 'EXPRESS', 'FASTAPI', 'MongoDB', 'Oracle', 
-        ]}
+          list={['NODE', 'PYTHON', 'EXPRESS', 'FASTAPI', 'MongoDB', 'Oracle']}
           title={'BACKEND'}
         />
         {/* <SkillList
