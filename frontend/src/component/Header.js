@@ -2,6 +2,11 @@ import React, { useState } from 'react';
 
 const Header = () => {
   const [openMenu, setOpenMenu] = useState(false);
+
+  //  if (inputRef.current) {
+  //    inputRef.current.focus(); // Focus on the input element
+  //  }
+
   return (
     <div className='navbar'>
       <div id='Header' className='container '>
@@ -36,19 +41,29 @@ const Header = () => {
         <div className={`${openMenu ? 'navDrawerOpen' : ''} navDrawer`}>
           <ul className='drawerNavlist'>
             <li>
-              <a href='#app'>Home</a>
+              <a href='#app' onClick={() => setOpenMenu(false)}>
+                Home
+              </a>
             </li>
             <li>
-              <a href='#about'>About</a>
+              <a href='#about' onClick={() => setOpenMenu(false)}>
+                About
+              </a>
             </li>
             <li>
-              <a href='#skill'>Skills</a>
+              <a href='#skill' onClick={() => setOpenMenu(false)}>
+                Skills
+              </a>
             </li>
             <li>
-              <a href='#ProjectSection'>Projects</a>
+              <a href='#ProjectSection' onClick={() => setOpenMenu(false)}>
+                Projects
+              </a>
             </li>
             <li>
-              <a href='#contact'>Contact</a>
+              <a href='#contact' onClick={() => setOpenMenu(false)}>
+                Contact
+              </a>
             </li>
           </ul>
         </div>
